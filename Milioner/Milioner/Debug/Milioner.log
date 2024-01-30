@@ -1,0 +1,7 @@
+﻿  Milioner.cpp
+C:\Users\Vladan\Desktop\VISER Vezbe\Milioner\Milioner\Milioner.cpp(35,26): warning C4101: 'ime_datoteke': unreferenced local variable
+C:\Users\Vladan\Desktop\VISER Vezbe\Milioner\Milioner\Milioner.cpp(35,10): warning C4101: 'izbor_odgovora': unreferenced local variable
+C:\Users\Vladan\Desktop\VISER Vezbe\Milioner\Milioner\Milioner.cpp(177,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Vladan\Desktop\VISER Vezbe\Milioner\Milioner\Milioner.cpp(239,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Vladan\Desktop\VISER Vezbe\Milioner\Milioner\Milioner.cpp(351,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Milioner.vcxproj -> C:\Users\Vladan\Desktop\VISER Vezbe\Milioner\Debug\Milioner.exe
